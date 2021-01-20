@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/mini-777/videoCallServer/issues"
   },
-  "homepage": "https://github.com/mini-777/videoCallServer#readme"
+  "homepage": "https://github.com/mini-777/videoCallServer#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  }
 }
